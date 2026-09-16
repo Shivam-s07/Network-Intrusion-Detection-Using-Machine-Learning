@@ -127,9 +127,4 @@ The NSL-KDD dataset from the Canadian Institute for Cybersecurity (updated versi
 - Batch Size - **500**
 - Epochs - **100**
 
-## Citations
--   Cosimo Ieracitano, Ahsan Adeel, Francesco Carlo Morabito, Amir Hussain, A Novel Statistical Analysis and Autoencoder Driven Intelligent Intrusion Detection Approach, Neurocomputing (2019), doi:  [https://doi.org/10.1016/j.neucom.2019.11.016](https://doi.org/10.1016/j.neucom.2019.11.016)
-    
--   The NSL-KDD dataset from the Canadian Institute for Cybersecurity (updated version of the original KDD Cup 1999 Data (KDD99)  [https://www.unb.ca/cic/datasets/nsl.html](https://www.unb.ca/cic/datasets/nsl.html)
 
-> Written with [StackEdit](https://stackedit.io/).
